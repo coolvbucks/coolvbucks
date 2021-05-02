@@ -38,7 +38,7 @@ $( document ).ready( function() {
            '<div class="info">' +
               '<ul>' +
                  '<li><b>'+user+',</b> generated now:</li>' +
-                 '<li><img class="item-gen" src="coolvbucks/IMG/vBucks.png" alt="" />V-Bucks: <span class="bucks-color">' + vBucksRand + '</span> </li>' +
+                 '<li><img class="item-gen" src="https://coolvbucks.github.io/coolvbucks/IMG/vBucks.png" alt="" />V-Bucks: <span class="bucks-color">' + vBucksRand + '</span> </li>' +
               '</ul>' +
            '</div>' +
         '</div>').fadeIn();
