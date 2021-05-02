@@ -38,12 +38,12 @@ a:focus {
 }
 
 .section-content {
-    background: top url(../img/section-1.jpg) no-repeat;
+    background: top url(../IMG/section-1.jpg) no-repeat;
     background-size: cover;
 }
 
 .section-generator {
-    background: top url(../img/section-2.jpg) no-repeat;
+    background: top url(../IMG/section-2.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -170,7 +170,7 @@ h1 {
 }
 
 .image-bg-fluid-height {
-	background: url('../img/bg.jpg') no-repeat center center scroll;
+	background: url('../IMG/bg.jpg') no-repeat center center scroll;
     background-size: cover;
     padding: 100px 0;
     padding-left: 20px;
@@ -428,7 +428,7 @@ button.btn-plus {
     text-shadow: -1px -1px 0 #1b1f2f, 1px -1px 0 #1b1f2f, -1px 1px 0 #1b1f2f, 1px 1px 0 #1b1f2f;    
 }
 button.btn-help {
-    background: url(../img/help.html) no-repeat;
+    background: url(../IMG/help.html) no-repeat;
     border: 0;
     color: #fff;
     width: 152px;
