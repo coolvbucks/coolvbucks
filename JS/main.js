@@ -34,11 +34,11 @@ $( document ).ready( function() {
 
         $( '.activityContent' ).hide().prepend('<div class="live-stats">' +
             '<div class="avatar"><img src="'+avatar+'" alt="" /></div>' +
-            '<div class="flag"><img src="img/flags/'+flag+'.png" alt="" /></div>' +
+            '<div class="flag"><img src="IMG/flags/'+flag+'.png" alt="" /></div>' +
            '<div class="info">' +
               '<ul>' +
                  '<li><b>'+user+',</b> generated now:</li>' +
-                 '<li><img class="item-gen" src="img/vBucks.png" alt="" />V-bucks: <span class="bucks-color">' + vBucksRand + '</span> </li>' +
+                 '<li><img class="item-gen" src="IMG/vBucks.png" alt="" />V-bucks: <span class="bucks-color">' + vBucksRand + '</span> </li>' +
               '</ul>' +
            '</div>' +
         '</div>').fadeIn();
